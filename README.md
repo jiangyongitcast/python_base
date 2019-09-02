@@ -1,2 +1,1 @@
-# soeasy
-这是一个python基础项目
+python基础部分
